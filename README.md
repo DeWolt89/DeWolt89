@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeWolt89
 - 👀 I’m interested in UX/UI
 - 🌱 I’m currently learning JS/CSS/HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me @frls1
 
 <!---
